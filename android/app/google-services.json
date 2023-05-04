@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "505287494286",
+    "project_id": "chat-app-b0c2f",
+    "storage_bucket": "chat-app-b0c2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505287494286:android:cd5272753d0fd4064ed7df",
+        "android_client_info": {
+          "package_name": "com.mohamedelshora.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505287494286-ifh3up5pv7sshgt8k7evha362038qmio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgkynxYrggw0dTem31h9F0ekiecrPHdT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505287494286-ifh3up5pv7sshgt8k7evha362038qmio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
