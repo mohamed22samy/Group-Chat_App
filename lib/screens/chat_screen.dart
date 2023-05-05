@@ -146,7 +146,7 @@ class MessageStreamBuilder extends StatelessWidget {
             strokeWidth: 5,
           );
         }
-
+        
         final messages =
             snapshot.data!.docs.reversed; //reversed becouse last message apper.
         for (var message in messages) {
